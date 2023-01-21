@@ -59,7 +59,6 @@ const person: Person = {
     params: {id: '50'},
     payload: undefined,
     friend: undefined
-
 }
 
 displayText(
