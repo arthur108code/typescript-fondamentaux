@@ -31,7 +31,7 @@ let teslaEnergie
 
 teslaEnergie = kineticEnergy(tesla.maxSpeed!, tesla.mass)!
 
-    displayText(`energie cinetique de ${tesla.name} est ${teslaEnergie.result} joules`)
+displayText(`energie cinetique de ${tesla.name} est ${teslaEnergie.result} joules`)
 
 
 
